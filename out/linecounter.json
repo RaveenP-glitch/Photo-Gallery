@@ -1,0 +1,184 @@
+{
+    "extension": "linecounter",
+    "version": "0.2.7",
+    "workspace": "c:\\Users\\Raveen Panditha\\OneDrive\\Documents\\GitHub\\Photo-Gallery",
+    "linecount": [
+        {
+            "version": "0.2.7",
+            "counttime": "2021-06-14 10:46:34",
+            "filesum": 21,
+            "codesum": 14628,
+            "commentsum": 49,
+            "blanksum": 100,
+            "statistics": {
+                "": {
+                    "code": 18,
+                    "comment": 1,
+                    "blank": 5
+                },
+                ".js": {
+                    "code": 140,
+                    "comment": 7,
+                    "blank": 48
+                },
+                ".css": {
+                    "code": 39,
+                    "comment": 5,
+                    "blank": 14
+                },
+                ".json": {
+                    "code": 14371,
+                    "comment": 0,
+                    "blank": 2
+                },
+                ".md": {
+                    "code": 37,
+                    "comment": 12,
+                    "blank": 31
+                },
+                ".html": {
+                    "code": 20,
+                    "comment": 23,
+                    "blank": 0
+                },
+                ".txt": {
+                    "code": 3,
+                    "comment": 1,
+                    "blank": 0
+                }
+            },
+            "filelist": [
+                {
+                    "blank": 5,
+                    "code": 18,
+                    "comment": 1,
+                    "filename": ".gitignore"
+                },
+                {
+                    "blank": 0,
+                    "code": 14313,
+                    "comment": 0,
+                    "filename": "package-lock.json"
+                },
+                {
+                    "blank": 2,
+                    "code": 33,
+                    "comment": 0,
+                    "filename": "package.json"
+                },
+                {
+                    "filename": "public\\favicon.ico",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "public\\favicon.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 20,
+                    "comment": 23,
+                    "filename": "public\\index.html"
+                },
+                {
+                    "filename": "public\\logo192.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "filename": "public\\logo512.png",
+                    "isbinaryfile": true,
+                    "blank": 0,
+                    "code": 0,
+                    "comment": 0
+                },
+                {
+                    "blank": 0,
+                    "code": 25,
+                    "comment": 0,
+                    "filename": "public\\manifest.json"
+                },
+                {
+                    "blank": 0,
+                    "code": 3,
+                    "comment": 1,
+                    "filename": "public\\robots.txt"
+                },
+                {
+                    "blank": 31,
+                    "code": 37,
+                    "comment": 12,
+                    "filename": "README.md"
+                },
+                {
+                    "blank": 2,
+                    "code": 14,
+                    "comment": 0,
+                    "filename": "src\\App.js"
+                },
+                {
+                    "blank": 5,
+                    "code": 9,
+                    "comment": 0,
+                    "filename": "src\\comps\\ImageGrid.js"
+                },
+                {
+                    "blank": 7,
+                    "code": 15,
+                    "comment": 0,
+                    "filename": "src\\comps\\ProgressBar.js"
+                },
+                {
+                    "blank": 2,
+                    "code": 11,
+                    "comment": 0,
+                    "filename": "src\\comps\\Title.js"
+                },
+                {
+                    "blank": 10,
+                    "code": 29,
+                    "comment": 0,
+                    "filename": "src\\comps\\UploadForm.js"
+                },
+                {
+                    "blank": 6,
+                    "code": 16,
+                    "comment": 2,
+                    "filename": "src\\firebase\\config.js"
+                },
+                {
+                    "blank": 8,
+                    "code": 12,
+                    "comment": 1,
+                    "filename": "src\\hooks\\useFirestore.js"
+                },
+                {
+                    "blank": 6,
+                    "code": 24,
+                    "comment": 1,
+                    "filename": "src\\hooks\\useStorage.js"
+                },
+                {
+                    "blank": 14,
+                    "code": 39,
+                    "comment": 5,
+                    "filename": "src\\index.css"
+                },
+                {
+                    "blank": 2,
+                    "code": 10,
+                    "comment": 3,
+                    "filename": "src\\index.js"
+                }
+            ]
+        }
+    ]
+}
